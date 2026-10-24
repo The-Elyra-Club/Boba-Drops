@@ -8,3 +8,5 @@ The thing is that club members don't have a github account and they don't need t
 
 By the way - Aditya Here - Co-Leader 
 our Leader is not available rn due to some circumstances.
+
+So we're taking code of everyone on WhatsApp and putting there code in repo
